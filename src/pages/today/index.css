@@ -1,0 +1,11 @@
+/* ion-toolbar {
+  --opacity: 0.5;
+} */
+.card-game {
+  --background: url("https://vcdn-sohoa.vnecdn.net/2023/07/05/image001-7062-1688549955.jpg")
+    no-repeat center center / cover;
+  --color: white;
+}
+.card-game-content {
+  --color: white;
+}

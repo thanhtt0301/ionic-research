@@ -1,0 +1,15 @@
+.horizontal-list {
+	display: flex;
+	overflow-x: scroll;
+	white-space: nowrap;
+}
+
+.list-item {
+	min-width: 150px;
+	height: 100px;
+	border: 1px solid #ccc;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin: 5px;
+}
